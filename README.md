@@ -1,0 +1,2 @@
+# 1b7a060f-rag-ai-pipelines-client-crm
+Tracks every client interaction, deal stage, and revenue metric in one dashboard. All-in-one replaces 3-4 separate tools.
